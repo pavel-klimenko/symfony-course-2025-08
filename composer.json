@@ -15,6 +15,7 @@
     "doctrine/doctrine-fixtures-bundle": "^4.3",
     "doctrine/doctrine-migrations-bundle": "^3.7",
     "doctrine/orm": "^3.5.8",
+    "lexik/jwt-authentication-bundle": "^3.1",
     "phpdocumentor/reflection-docblock": "^5.6.5",
     "phpstan/phpdoc-parser": "^2.3",
     "symfony/amazon-sns-notifier": ">=7.2.3",
