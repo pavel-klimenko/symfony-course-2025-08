@@ -1,0 +1,16 @@
+wsl --unregister Ubuntu
+docker-compose up --build
+docker compose up --build
+docker --version
+sudo apt update
+sudo apt install docker-cli
+docker --version
+docker compose up --build
+docker-compose up --build
+docker compose up --build
+docker compose up 
+docker-compose up --build
+docker compose version
+sudo apt install docker-compose
+docker compose version
+docker-compose up --build

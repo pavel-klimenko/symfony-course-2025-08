@@ -52,6 +52,7 @@ class AppFixtures extends Fixture
             ['email' => 'store_manager@example.com', 'password' => 'store123', 'roles' => ['ROLE_STORE_MANAGER']],
             ['email' => 'product_manager@example.com', 'password' => 'product123', 'roles' => ['ROLE_PRODUCT_MANAGER']],
             ['email' => 'user@example.com', 'password' => 'user123', 'roles' => ['ROLE_USER']],
+            ['email' => 'tester@example.com', 'password' => 'tester123', 'roles' => ['ROLE_TESTER']]
         ];
 
         foreach ($usersData as $data) {
